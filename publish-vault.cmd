@@ -14,10 +14,10 @@ set "PATH=%NODE24%;%PATH%"
 cd /d "%QUARTZ%"
 
 REM ---- What NOT to publish (edit these lists as you like) ----
-REM Folders: Obsidian settings, trash, course PDFs (attachments), Other Resources, OneDrive temp folders
-set XD=.obsidian .trash .git attachments "Other Resources" .tmp.drivedownload .tmp.driveupload
-REM Files: personal to-do list
-set XF=To-Do.md
+REM Folders: Obsidian settings, trash, Other Resources, OneDrive temp folders, UTM108, personal projects
+set XD=.obsidian .trash .git "Other Resources" .tmp.drivedownload .tmp.driveupload UTM108 "Vibe Coded Projects"
+REM Files: personal to-do list, UTM108 hub
+set XF=To-Do.md "UTM108 Hub.base"
 
 echo Copying vault into content\ ...
 robocopy "%VAULT%" "%QUARTZ%content" /MIR /XD %XD% /XF %XF% .gitkeep /R:1 /W:1 /NFL /NDL /NJH /NP

@@ -1,8 +1,8 @@
 ---
-title: Wencheng's Notes
+title: Course Notes
 ---
 
-Welcome! These are my course notes, published from my Obsidian vault.
+Notes and study resources for first-year UTM courses.
 
 - [[MAT137 Map|MAT137]] (Calculus with Proofs)
 - [[MAT102 Map|MAT102]] (Introduction to Mathematical Proofs)
