@@ -35,22 +35,22 @@ Material after Test 1 through Week 8 (finished in Week 9): Videos **2.9–2.22**
 
 | ✅ On the test | Note |
 |---|---|
-| Limit definition, proving a limit **does not exist** | [[The Idea of a Limit]], [[Epsilon-Delta Proofs]] |
-| Limit laws (conditional!) and the proof of the sum law | [[Limit Laws and Existence]] |
-| Infinite limits | [[Infinite Limits - Sum and Product]] |
-| Limit computations, Squeeze Theorem | [[Computing Limits]], [[Squeeze Theorem]], [[Bounded Times Zero Limit]] |
-| Continuity, Main Continuity Theorem, types of discontinuities | [[Continuity and Discontinuities]] |
-| IVT | [[IVT Intermediate Value Theorem]] |
-| EVT | [[EVT Extreme Value Theorem]] |
-| Definition and meaning of the derivative | [[The Derivative - Definition and Meaning]], [[Tangent Lines and the Derivative]] |
-| Differentiable ⇒ continuous (not the converse) | [[Differentiability Implies Continuity]] |
-| Differentiation rules | [[Differentiation Rules]], [[Product and Quotient Rules]], [[Chain Rule]], [[Trigonometric Derivatives]] |
-| Implicit and logarithmic differentiation | [[Implicit Differentiation]], [[Exponentials, Logarithms and Logarithmic Differentiation]] |
-| Related rates | [[Related Rates]] |
-| Injective / surjective / bijective, inverses, Inverse Function Theorem, derivative of $\ln$ | [[Inverse Functions]], [[Inverse Trig - arctan]] |
+| Limit definition, proving a limit **does not exist** | [[W03 - The Idea of a Limit\|The Idea of a Limit]], [[W04 - Epsilon-Delta Proofs\|Epsilon-Delta Proofs]] |
+| Limit laws (conditional!) and the proof of the sum law | [[W04 - Limit Laws and Existence\|Limit Laws and Existence]] |
+| Infinite limits | [[W03 - Infinite Limits - Sum and Product\|Infinite Limits - Sum and Product]] |
+| Limit computations, Squeeze Theorem | [[W05 - Computing Limits\|Computing Limits]], [[W04 - Squeeze Theorem\|Squeeze Theorem]], [[W04 - Bounded Times Zero Limit\|Bounded Times Zero Limit]] |
+| Continuity, Main Continuity Theorem, types of discontinuities | [[W05 - Continuity and Discontinuities\|Continuity and Discontinuities]] |
+| IVT | [[W06 - IVT Intermediate Value Theorem\|IVT Intermediate Value Theorem]] |
+| EVT | [[W06 - EVT Extreme Value Theorem\|EVT Extreme Value Theorem]] |
+| Definition and meaning of the derivative | [[W06 - The Derivative - Definition and Meaning\|The Derivative - Definition and Meaning]], [[W06 - Tangent Lines and the Derivative\|Tangent Lines and the Derivative]] |
+| Differentiable ⇒ continuous (not the converse) | [[W06 - Differentiability Implies Continuity\|Differentiability Implies Continuity]] |
+| Differentiation rules | [[W06 - Differentiation Rules\|Differentiation Rules]], [[W07 - Product and Quotient Rules\|Product and Quotient Rules]], [[W07 - Chain Rule\|Chain Rule]], [[W07 - Trigonometric Derivatives\|Trigonometric Derivatives]] |
+| Implicit and logarithmic differentiation | [[W07 - Implicit Differentiation\|Implicit Differentiation]], [[W08 - Exponentials, Logarithms and Logarithmic Differentiation\|Exponentials, Logarithms and Logarithmic Differentiation]] |
+| Related rates | [[W08 - Related Rates\|Related Rates]] |
+| Injective / surjective / bijective, inverses, Inverse Function Theorem, derivative of $\ln$ | [[W08 - Inverse Functions\|Inverse Functions]], [[W09 - Inverse Trig - arctan\|Inverse Trig - arctan]] |
 | 2SA2 and 2SA3 | [[2SA2 Exercise Questions]], [[2SA3 - Strong and Shrinking Functions (Uniform Continuity and Lipschitz)]] |
 
-No question is **only** Test 1 material, but Test 1 tools (logic, negations, proof structure, the limit definition) are used everywhere: [[Logic - Negations and Proof Structure]], [[Writing Proofs]], [[137 Course Definitions and Proof Structures]].
+No question is **only** Test 1 material, but Test 1 tools (logic, negations, proof structure, the limit definition) are used everywhere: [[W01 - Logic - Negations and Proof Structure|Logic - Negations and Proof Structure]], [[W02 - Writing Proofs|Writing Proofs]], [[W00 - 137 Course Definitions and Proof Structures|137 Course Definitions and Proof Structures]].
 
 You may cite results from the videos or from class without proof, unless the question asks you to prove that result.
 

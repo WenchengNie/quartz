@@ -8,15 +8,15 @@ tags:
   - related-rates
   - inverses
 prereq:
-  - "[[Related Rates]]"
-  - "[[Exponentials, Logarithms and Logarithmic Differentiation]]"
-  - "[[Inverse Functions]]"
+  - "[[W08 - Related Rates|Related Rates]]"
+  - "[[W08 - Exponentials, Logarithms and Logarithmic Differentiation|Exponentials, Logarithms and Logarithmic Differentiation]]"
+  - "[[W08 - Inverse Functions|Inverse Functions]]"
 week: W10
 ---
 
 # Week 10 Tutorial Problems
 
-Concept notes: [[Related Rates]] · [[Exponentials, Logarithms and Logarithmic Differentiation]] · [[Inverse Functions]]
+Concept notes: [[W08 - Related Rates|Related Rates]] · [[W08 - Exponentials, Logarithms and Logarithmic Differentiation|Exponentials, Logarithms and Logarithmic Differentiation]] · [[W08 - Inverse Functions|Inverse Functions]]
 
 > [!tip] How to use
 > Try each question first. Solutions are folded; click the callout to open. Term Test 2 is Friday, so the tutorial may also do test review ([[MAT137 Test 2 Study Guide]]).
@@ -111,4 +111,4 @@ A rope of fixed length runs from David's foot, up through a point $P$ on the cei
 > [!success]- Solution
 > Find $a$ with $f(a)=3$ by guessing: $f(0)=1+1+0+1=3$, so $f^{-1}(3)=0$.
 > $$f'(x)=-2\sin(2x)+e^x+3\implies f'(0)=4\implies\left(f^{-1}\right)'(3)=\frac{1}{f'(0)}=\frac14$$
-> (Injectivity follows from [[Rolle's Theorem and the Mean Value Theorem#Nonzero derivative ⇒ injective]], since $f'(x)\ge-2+e^x+3>0$.)
+> (Injectivity follows from [[W10 - Rolle's Theorem and the Mean Value Theorem#Nonzero derivative ⇒ injective|Rolle's Theorem and the Mean Value Theorem > Nonzero derivative ⇒ injective]], since $f'(x)\ge-2+e^x+3>0$.)

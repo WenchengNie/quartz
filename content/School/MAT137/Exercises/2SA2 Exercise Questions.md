@@ -10,7 +10,7 @@ tags:
   - infinite-limits
   - proofs
 prereq:
-  - "[[Infinite Limits - Sum and Product]]"
+  - "[[W03 - Infinite Limits - Sum and Product|Infinite Limits - Sum and Product]]"
   - "[[Codes and Asymptotic Regularity]]"
 week: W06
 ---
@@ -18,7 +18,7 @@ week: W06
 # 2SA2 Exercise Questions
 
 
-Concept notes: [[Infinite Limits - Sum and Product]] · [[Codes and Asymptotic Regularity]] · [[Epsilon-Delta Proofs]] · [[Logic - Negations and Proof Structure]]
+Concept notes: [[W03 - Infinite Limits - Sum and Product|Infinite Limits - Sum and Product]] · [[Codes and Asymptotic Regularity]] · [[W04 - Epsilon-Delta Proofs|Epsilon-Delta Proofs]] · [[W01 - Logic - Negations and Proof Structure|Logic - Negations and Proof Structure]]
 
 > [!tip] How to use
 > Try each question first. Solutions are folded; click the callout to open.

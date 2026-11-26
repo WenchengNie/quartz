@@ -8,6 +8,8 @@ views:
     order:
       - file.name
     sort:
+      - property: file.folder
+        direction: ASC
       - property: file.name
         direction: ASC
   - type: table
@@ -16,5 +18,7 @@ views:
       - file.name
       - file.mtime
     sort:
+      - property: file.folder
+        direction: ASC
       - property: file.name
         direction: ASC

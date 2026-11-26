@@ -33,17 +33,17 @@ Earlier material is assumed known even if not tested directly.
 
 | ✅ On the test | Note |
 |---|---|
-| Divisibility, its basic properties, proofs using it | [[Divisibility and Euclid's Algorithm]] §1, §4, §5 |
-| Well-Ordering Principle, Division Algorithm | [[Divisibility and Euclid's Algorithm]] §6, §7 |
-| $\gcd$, Euclidean Algorithm, Bézout's identity | [[Divisibility and Euclid's Algorithm]] §2, §3, §8, §9 |
-| Linear Diophantine equations: existence and **all** solutions | [[Linear Diophantine Equations]] |
-| Primes, Euclid's lemma (both definitions equivalent) | [[Primes and the Fundamental Theorem of Arithmetic]] §1, §2 |
-| Fundamental Theorem of Arithmetic, infinitely many primes, gcd/divisors from factorizations | [[Primes and the Fundamental Theorem of Arithmetic]] §3–§5 |
-| Congruence mod $n$ is an equivalence relation | [[Modular Arithmetic]] §1, §2 · [[Relations]] |
-| $+$ and $\times$ well-defined, $\mathbb{Z}_n$ | [[Modular Arithmetic]] §3, §4 |
-| Cancellation, Fermat's Little Theorem, inverses in $\mathbb{Z}_p$ | [[Modular Arithmetic]] §6–§8 |
+| Divisibility, its basic properties, proofs using it | [[W07 - Divisibility and Euclid's Algorithm\|Divisibility and Euclid's Algorithm]] §1, §4, §5 |
+| Well-Ordering Principle, Division Algorithm | [[W07 - Divisibility and Euclid's Algorithm\|Divisibility and Euclid's Algorithm]] §6, §7 |
+| $\gcd$, Euclidean Algorithm, Bézout's identity | [[W07 - Divisibility and Euclid's Algorithm\|Divisibility and Euclid's Algorithm]] §2, §3, §8, §9 |
+| Linear Diophantine equations: existence and **all** solutions | [[W08 - Linear Diophantine Equations\|Linear Diophantine Equations]] |
+| Primes, Euclid's lemma (both definitions equivalent) | [[W08 - Primes and the Fundamental Theorem of Arithmetic\|Primes and the Fundamental Theorem of Arithmetic]] §1, §2 |
+| Fundamental Theorem of Arithmetic, infinitely many primes, gcd/divisors from factorizations | [[W08 - Primes and the Fundamental Theorem of Arithmetic\|Primes and the Fundamental Theorem of Arithmetic]] §3–§5 |
+| Congruence mod $n$ is an equivalence relation | [[W09 - Modular Arithmetic\|Modular Arithmetic]] §1, §2 · [[W04 - Relations\|Relations]] |
+| $+$ and $\times$ well-defined, $\mathbb{Z}_n$ | [[W09 - Modular Arithmetic\|Modular Arithmetic]] §3, §4 |
+| Cancellation, Fermat's Little Theorem, inverses in $\mathbb{Z}_p$ | [[W09 - Modular Arithmetic\|Modular Arithmetic]] §6–§8 |
 
-Earlier tools used everywhere: [[Quantifiers and Implications]] (contrapositive, "for all / there exists" structure), [[Proof by Contradiction]] (FTA, infinitely many primes, irrationality), [[102 Course Definitions and Proof Structures]].
+Earlier tools used everywhere: [[W03 - Quantifiers and Implications|Quantifiers and Implications]] (contrapositive, "for all / there exists" structure), [[W04 - Proof by Contradiction|Proof by Contradiction]] (FTA, infinitely many primes, irrationality), [[W00 - 102 Course Definitions and Proof Structures|102 Course Definitions and Proof Structures]].
 
 ## Definitions to state word-for-word
 - **Divides:** $a \mid b \iff \exists k \in \mathbb{Z},\ b = ka$.
@@ -209,4 +209,4 @@ $$
 
 - Readings exercises (end of each reading), pre-class quizzes, in-class worksheets and polls, tutorial exercises for Weeks 7–9.
 - **Winter 2026 Test 2** (blank script, blank MC, solutions). Its coverage was Readings 06–09, so use it for timing and test-taking practice, not to guess question styles.
-- Unanswered end-of-reading exercises in [[Modular Arithmetic]] (last digits, $9 \mid 10^n - 1$, $n^2 \equiv 0$ or $1 \pmod 4$, $7 \mid 3^{2001} + 4^{2001}$).
+- Unanswered end-of-reading exercises in [[W09 - Modular Arithmetic|Modular Arithmetic]] (last digits, $9 \mid 10^n - 1$, $n^2 \equiv 0$ or $1 \pmod 4$, $7 \mid 3^{2001} + 4^{2001}$).

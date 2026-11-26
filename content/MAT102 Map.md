@@ -50,26 +50,26 @@ flowchart LR
 ## Lesson links
 
 **Unit 1: Logic and Proof**
-1. [[Reading Mathematics]]
-2. [[Sets and Propositional Logic]]
-3. [[Quantifiers and Implications]]
-4. [[Proof by Contradiction]]
-5. [[Mathematical Induction]] (Reading 10, Weeks 10–11)
+1. [[W01 - Reading Mathematics|Reading Mathematics]]
+2. [[W02 - Sets and Propositional Logic|Sets and Propositional Logic]]
+3. [[W03 - Quantifiers and Implications|Quantifiers and Implications]]
+4. [[W04 - Proof by Contradiction|Proof by Contradiction]]
+5. [[W11 - Mathematical Induction|Mathematical Induction]] (Reading 10, Weeks 10–11)
 
 **Unit 2: Relations and Functions**
-1. [[Relations]]
-2. [[Injectivity, Surjectivity, and Bijectivity]]
-3. [[Preimages of Images and Left Inverses]]
-4. [[Cardinality]]
+1. [[W04 - Relations|Relations]]
+2. [[W05 - Injectivity, Surjectivity, and Bijectivity|Injectivity, Surjectivity, and Bijectivity]]
+3. [[W06 - Preimages of Images and Left Inverses|Preimages of Images and Left Inverses]]
+4. [[W06 - Cardinality|Cardinality]]
 
 **Unit 3: Number Theory**
-1. [[Divisibility and Euclid's Algorithm]]
-2. [[Linear Diophantine Equations]]
-3. [[Primes and the Fundamental Theorem of Arithmetic]]
-4. [[Modular Arithmetic]]
+1. [[W07 - Divisibility and Euclid's Algorithm|Divisibility and Euclid's Algorithm]]
+2. [[W08 - Linear Diophantine Equations|Linear Diophantine Equations]]
+3. [[W08 - Primes and the Fundamental Theorem of Arithmetic|Primes and the Fundamental Theorem of Arithmetic]]
+4. [[W09 - Modular Arithmetic|Modular Arithmetic]]
 
 **Review**
-- [[102 Course Definitions and Proof Structures]]
+- [[W00 - 102 Course Definitions and Proof Structures|102 Course Definitions and Proof Structures]]
 - [[MAT102 Test 2 Outline]]
 - [[MAT102 Final Exam Outline]]
 - [[MAT102 Final Exam Problem Set]]

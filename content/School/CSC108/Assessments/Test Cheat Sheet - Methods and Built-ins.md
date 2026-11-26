@@ -8,7 +8,7 @@ course: CSC108
 
 # Test Cheat Sheet – Methods and Built-ins
 
-> Related: [[Functions, Scope and Doctests]], [[Strings, Loops and Accumulators]], [[File IO - Reading and Writing Files]], [[Aliasing, Loops and Operators]]
+> Related: [[W02 - Functions, Scope and Doctests|Functions, Scope and Doctests]], [[W04 - Strings, Loops and Accumulators|Strings, Loops and Accumulators]], [[W06 - File IO - Reading and Writing Files|File IO - Reading and Writing Files]], [[W05 - Aliasing, Loops and Operators|Aliasing, Loops and Operators]]
 
 > [!important] The #1 test trap
 > **String methods never change the string**; they return a new one. `s.upper()` alone does nothing. Write `s = s.upper()`.
@@ -103,7 +103,7 @@ course: CSC108
 |---|---|
 | `with open(name, 'r') as f:` | read (default mode) |
 | `'w'` / `'a'` | write (**erases** first) / append |
-| `f.read()`, `f.readline()`, `f.readlines()`, `for line in f` | see [[File IO - Reading and Writing Files]] |
+| `f.read()`, `f.readline()`, `f.readlines()`, `for line in f` | see [[W06 - File IO - Reading and Writing Files\|File IO - Reading and Writing Files]] |
 | `f.write(s)` | `s` must be a `str`; no automatic `'\n'` |
 
 ---

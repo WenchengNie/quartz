@@ -12,15 +12,15 @@ aliases:
   - uniform continuity
   - Lipschitz
 prereq:
-  - "[[Continuity and Discontinuities]]"
-  - "[[Epsilon-Delta Proofs]]"
-  - "[[Logic - Negations and Proof Structure]]"
+  - "[[W05 - Continuity and Discontinuities|Continuity and Discontinuities]]"
+  - "[[W04 - Epsilon-Delta Proofs|Epsilon-Delta Proofs]]"
+  - "[[W01 - Logic - Negations and Proof Structure|Logic - Negations and Proof Structure]]"
 week: W08
 ---
 
 # Strong and Shrinking Functions
 
-Related: [[Continuity and Discontinuities]] · [[Epsilon-Delta Proofs]] · [[Logic - Negations and Proof Structure]]
+Related: [[W05 - Continuity and Discontinuities|Continuity and Discontinuities]] · [[W04 - Epsilon-Delta Proofs|Epsilon-Delta Proofs]] · [[W01 - Logic - Negations and Proof Structure|Logic - Negations and Proof Structure]]
 
 These terms come from 2SA3. Textbooks call "strong" **uniformly continuous** and "$\alpha$-shrinking" **Lipschitz with constant $\alpha$**.
 

@@ -24,11 +24,11 @@ TBA.
 
 | Reading | Topic | Note |
 |---|---|---|
-| 09 Number Theory III | Modular arithmetic, Fermat's Little Theorem | [[Modular Arithmetic]] |
-| 10 Induction I | Induction, sigma notation, strong and structural induction | [[Mathematical Induction]] |
+| 09 Number Theory III | Modular arithmetic, Fermat's Little Theorem | [[W09 - Modular Arithmetic\|Modular Arithmetic]] |
+| 10 Induction I | Induction, sigma notation, strong and structural induction | [[W11 - Mathematical Induction\|Mathematical Induction]] |
 | 11 Group Theory I | Groups (Week 12) | not yet in the vault |
 
-Earlier material: [[MAT102 Test 2 Outline]], [[102 Course Definitions and Proof Structures]].
+Earlier material: [[MAT102 Test 2 Outline]], [[W00 - 102 Course Definitions and Proof Structures|102 Course Definitions and Proof Structures]].
 
 ## Proof skeletons (so far)
 **Induction**

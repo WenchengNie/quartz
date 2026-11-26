@@ -9,16 +9,16 @@ tags:
   - proofs
   - negation
 prereq:
-  - "[[Logic - Negations and Proof Structure]]"
-  - "[[Epsilon-Delta Proofs]]"
-next: "[[Squeeze Theorem]]"
+  - "[[W01 - Logic - Negations and Proof Structure|Logic - Negations and Proof Structure]]"
+  - "[[W04 - Epsilon-Delta Proofs|Epsilon-Delta Proofs]]"
+next: "[[W04 - Squeeze Theorem|Squeeze Theorem]]"
 week: W06
 ---
 
 # Codes and Asymptotic Regularity
 
 
-Related: [[Epsilon-Delta Proofs]] · [[Logic - Negations and Proof Structure]] · [[137 Course Definitions and Proof Structures]]
+Related: [[W04 - Epsilon-Delta Proofs|Epsilon-Delta Proofs]] · [[W01 - Logic - Negations and Proof Structure|Logic - Negations and Proof Structure]] · [[W00 - 137 Course Definitions and Proof Structures|137 Course Definitions and Proof Structures]]
 
 ## Definitions
 
@@ -158,4 +158,4 @@ $$\lim_{n\to\infty}d_9(n)=1-9\cdot\frac1{10}=\frac1{10}$$
 So $f$ is also 9-regular, hence regular. $\blacksquare$
 
 > [!tip] Why limit laws are OK here
-> All nine limits exist and are **finite**, unlike the $\infty+L$ trap in [[Infinite Limits - Sum and Product]].
+> All nine limits exist and are **finite**, unlike the $\infty+L$ trap in [[W03 - Infinite Limits - Sum and Product|Infinite Limits - Sum and Product]].

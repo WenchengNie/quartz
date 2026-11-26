@@ -25,14 +25,14 @@ TBA (exam info page, Week 12).
 
 | Week | Topics | Note |
 |---|---|---|
-| 10 | Rolle's theorem, MVT (videos up to 6.2) | [[Rolle's Theorem and the Mean Value Theorem]] |
-| 11 | Applied optimization (6.3–6.4) | [[Applied Optimization]] |
-| 11 | Indeterminate forms and L'Hôpital's rule (6.5–6.12) | [[L'Hôpital's Rule and Indeterminate Forms]] |
-| 11 tutorial | Inverse trig functions, local extrema | [[Inverse Trig - arctan]], [[Local Extrema and Critical Points]] |
+| 10 | Rolle's theorem, MVT (videos up to 6.2) | [[W10 - Rolle's Theorem and the Mean Value Theorem\|Rolle's Theorem and the Mean Value Theorem]] |
+| 11 | Applied optimization (6.3–6.4) | [[W11 - Applied Optimization\|Applied Optimization]] |
+| 11 | Indeterminate forms and L'Hôpital's rule (6.5–6.12) | [[W11 - L'Hôpital's Rule and Indeterminate Forms\|L'Hôpital's Rule and Indeterminate Forms]] |
+| 11 tutorial | Inverse trig functions, local extrema | [[W09 - Inverse Trig - arctan\|Inverse Trig - arctan]], [[W09 - Local Extrema and Critical Points\|Local Extrema and Critical Points]] |
 | 12 | Concavity, inflection points, asymptotes, curve sketching (videos 6.13–6.18) | not yet in the vault |
 | — | 2SA4 | — |
 
-Earlier material: see [[MAT137 Test 2 Study Guide]] and [[137 Course Definitions and Proof Structures]].
+Earlier material: see [[MAT137 Test 2 Study Guide]] and [[W00 - 137 Course Definitions and Proof Structures|137 Course Definitions and Proof Structures]].
 
 ## Definitions and theorems to know (so far)
 - **L'Hôpital's rule** with all four hypotheses (see the note). If $\lim\frac{f'}{g'}$ doesn't exist, the rule says nothing.

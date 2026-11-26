@@ -24,10 +24,10 @@ TBA.
 
 | Week | Topic | Note |
 |---|---|---|
-| 9 | Testing (choosing test cases), Lazy Literature part 2 | [[Testing - Choosing Test Cases]], [[Lazy Literature (Random Text Generation)]] |
-| 10 | unittest, regex | [[Testing with unittest and Mutation]], [[Regular Expressions]] |
-| 10–11 | Selection, insertion, bubble sort | [[Sorting Algorithms (Selection, Insertion, Bubble)]] |
-| 11 | Timing and time complexity | [[Time Complexity and Big-Oh]] |
+| 9 | Testing (choosing test cases), Lazy Literature part 2 | [[W09B - Testing - Choosing Test Cases\|Testing - Choosing Test Cases]], [[W08C - Lazy Literature (Random Text Generation)\|Lazy Literature (Random Text Generation)]] |
+| 10 | unittest, regex | [[W09 - Testing with unittest and Mutation\|Testing with unittest and Mutation]], [[W09 - Regular Expressions\|Regular Expressions]] |
+| 10–11 | Selection, insertion, bubble sort | [[W10 - Sorting Algorithms (Selection, Insertion, Bubble)\|Sorting Algorithms (Selection, Insertion, Bubble)]] |
+| 11 | Timing and time complexity | [[W11 - Time Complexity and Big-Oh\|Time Complexity and Big-Oh]] |
 | 12 | Object Oriented Programming (announced as "next time") | — |
 
 Earlier material: [[CSC108 Test 2 Study Guide]], [[Test Cheat Sheet - Methods and Built-ins]].

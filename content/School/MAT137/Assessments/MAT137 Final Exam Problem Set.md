@@ -17,7 +17,7 @@ Study mash for the final. Coverage is **TBA** (see [[MAT137 Final Exam Study Gui
 
 ## Part A: Week 11 lecture problems
 
-Full worked solutions are in [[Applied Optimization]] and [[L'Hôpital's Rule and Indeterminate Forms]]; try them first here.
+Full worked solutions are in [[W11 - Applied Optimization|Applied Optimization]] and [[W11 - L'Hôpital's Rule and Indeterminate Forms|L'Hôpital's Rule and Indeterminate Forms]]; try them first here.
 
 ### A1. The farmer
 300 m of fencing, a rectangle split down the middle into two equal pens. Largest total area?

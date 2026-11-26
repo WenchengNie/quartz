@@ -88,7 +88,7 @@ def d(L):
 
 ## Regex
 
-Practice from the Lab 9 backup exercises (`Downloads\csc108\tutorials\Practical9.pdf`, section 5) and [[Regular Expressions]].
+Practice from the Lab 9 backup exercises (`Downloads\csc108\tutorials\Practical9.pdf`, section 5) and [[W09 - Regular Expressions|Regular Expressions]].
 
 ## Past tests (PDF)
 

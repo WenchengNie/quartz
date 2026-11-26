@@ -18,23 +18,23 @@ tags: [csc108, tt2, study-guide]
 ## Coverage
 | ✅ On the test | Note |
 |---|---|
-| Conditionals | [[Conditionals (If Statements)]] |
-| For loops | [[For Loops over Strings]] |
-| Practice with loops | [[Nested Loops (Loop Practice)]] |
-| While loops | [[While Loops]] |
-| Lists | [[Lists]] |
-| List practice (nested lists) | [[List Practice (Nested Lists)]] |
-| File I/O (reading and parsing) | [[File IO - Reading and Parsing]] |
-| File I/O (writing and manipulations) | [[File IO - Writing and Manipulations]] |
-| CSVs | [[CSVs]] |
-| Refactoring | [[Refactoring]] |
+| Conditionals | [[W04A - Conditionals (If Statements)\|Conditionals (If Statements)]] |
+| For loops | [[W04B - For Loops over Strings\|For Loops over Strings]] |
+| Practice with loops | [[W04C - Nested Loops (Loop Practice)\|Nested Loops (Loop Practice)]] |
+| While loops | [[W05A - While Loops\|While Loops]] |
+| Lists | [[W05B - Lists\|Lists]] |
+| List practice (nested lists) | [[W07B - List Practice (Nested Lists)\|List Practice (Nested Lists)]] |
+| File I/O (reading and parsing) | [[W06A - File IO - Reading and Parsing\|File IO - Reading and Parsing]] |
+| File I/O (writing and manipulations) | [[W06C - File IO - Writing and Manipulations\|File IO - Writing and Manipulations]] |
+| CSVs | [[W06B - CSVs\|CSVs]] |
+| Refactoring | [[W07A - Refactoring\|Refactoring]] |
 
 | ❌ Excluded (only these two) |
 |---|
-| [[Dictionaries]] |
-| [[Tuples and Nested Dictionaries]] |
+| [[W07C - Dictionaries\|Dictionaries]] |
+| [[W08A - Tuples and Nested Dictionaries\|Tuples and Nested Dictionaries]] |
 
-Week 1–3 material ([[Intro, Python as a Calculator, Basic Functions]], [[Logic, Functions, Scope, Design Recipe]], [[Strings, Indexing, Slicing, String Methods]]) isn't listed, but everything above depends on it.
+Week 1–3 material ([[W01 - Intro, Python as a Calculator, Basic Functions|Intro, Python as a Calculator, Basic Functions]], [[W02 - Logic, Functions, Scope, Design Recipe|Logic, Functions, Scope, Design Recipe]], [[W03 - Strings, Indexing, Slicing, String Methods|Strings, Indexing, Slicing, String Methods]]) isn't listed, but everything above depends on it.
 
 ## The API sheet you'll get
 **Builtins:** `chr`, `enumerate`, `input`, `int`, `len`, `max`, `min`, `ord`, `print(sep, end)`, `range`
@@ -94,7 +94,7 @@ def write_passing(grades: TextIO, output: TextIO) -> None:
         if avg >= 50:
             output.write(fields[0] + ',' + str(avg) + '\n')
 ```
-**Q5: refactor `category`**: see [[Refactoring]].
+**Q5: refactor `category`**: see [[W07A - Refactoring|Refactoring]].
 
 ## Practice: MCQ review (answers)
 | Q | Ans | Why |

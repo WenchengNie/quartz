@@ -7,7 +7,7 @@ tags: [mat102, final, problem-set]
 ---
 # MAT102 Final Exam — Problem Set
 
-Study mash for the final. Coverage is **TBA** (see [[MAT102 Final Exam Outline]]); this starts with induction. Notes: [[Mathematical Induction]].
+Study mash for the final. Coverage is **TBA** (see [[MAT102 Final Exam Outline]]); this starts with induction. Notes: [[W11 - Mathematical Induction|Mathematical Induction]].
 
 ## Induction
 
@@ -44,7 +44,7 @@ Study mash for the final. Coverage is **TBA** (see [[MAT102 Final Exam Outline]]
 
 > [!success]- Solution
 > **Base:** $\gcd(1,1)=1$.
-> **Step:** $\gcd(f_{n+1},f_{n+2})=\gcd(f_{n+1},f_{n+1}+f_n)=\gcd(f_{n+1},f_n)\overset{\text{IH}}=1$, using $\gcd(a,b)=\gcd(a,b-a)$ (see [[Divisibility and Euclid's Algorithm]]). $\blacksquare$
+> **Step:** $\gcd(f_{n+1},f_{n+2})=\gcd(f_{n+1},f_{n+1}+f_n)=\gcd(f_{n+1},f_n)\overset{\text{IH}}=1$, using $\gcd(a,b)=\gcd(a,b-a)$ (see [[W07 - Divisibility and Euclid's Algorithm|Divisibility and Euclid's Algorithm]]). $\blacksquare$
 
 ### ⭐ I6. Strong induction (Week 11 tutorial, Example 2.1)
 $a_1=a_2=1$, $a_{n+1}=\frac{a_n^2+2}{a_{n-1}}$. (a) Compute $a_3,a_4,a_5$. (b) Find integers $C,D$ with $a_{n+1}=Ca_n+Da_{n-1}$ matching (a).
