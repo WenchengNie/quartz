@@ -63,6 +63,21 @@ $3\in S$; $a,b\in S\Rightarrow a+b\in S$. Show $3\mid s$ for all $s\in S$.
 
 Not transcribed: these are the original PDFs, shown right here. Click a box to open it. The Make-Up Test will be added here once it's posted (Week 11 announcement).
 
+### Past final exams
+
+From the UTM past-exams archive (no solutions posted). Newest first; the Aug 2022 one is the full-year MAT102Y version.
+
+> [!example]- MAT102H Final Exam, August 2023
+> ![[MAT102H Aug 2023 Final Exam.pdf#height=800]]
+
+> [!example]- MAT102H Final Exam, December 2022
+> ![[MAT102H Dec 2022 Final Exam.pdf#height=800]]
+
+> [!example]- MAT102Y Final Exam, August 2022 (full-year version)
+> ![[MAT102Y Aug 2022 Final Exam.pdf#height=800]]
+
+### Past term tests
+
 > [!example]- Winter term Test 1 (blank script)
 > ![[Term_Test_1_Script.pdf#height=800]]
 
@@ -77,4 +92,3 @@ Not transcribed: these are the original PDFs, shown right here. Click a box to o
 
 > [!success]- Winter 2026 Test 2: multiple choice: Solutions
 > ![[Term_Test_2_MC_Sols.pdf#height=800]]
-

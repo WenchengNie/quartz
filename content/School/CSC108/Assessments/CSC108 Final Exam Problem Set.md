@@ -94,6 +94,15 @@ Practice from the Lab 9 backup exercises (`Downloads\csc108\tutorials\Practical9
 
 Not transcribed: these are the original PDFs, shown right here. Click a box to open it.
 
+### Past final exams
+
+From the UTM past-exams archive (no solutions posted).
+
+> [!example]- CSC108H Final Exam, December 2022
+> ![[CSC108H Dec 2022 Final Exam.pdf#height=800]]
+
+### Past term tests
+
 Our own Test 2 covered up to files/CSVs (no testing, regex, sorting or complexity).
 
 > [!example]- CSC108 Test 2, Fall 2026
@@ -101,5 +110,3 @@ Our own Test 2 covered up to files/CSVs (no testing, regex, sorting or complexit
 
 > [!success]- CSC108 Test 2, Fall 2026: Answer key
 > ![[T2_AnswerKey.pdf#height=800]]
-
-- Past CSC108 final exams: library archive linked on the Quercus front page (sign in required, not downloaded).

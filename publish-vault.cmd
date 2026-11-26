@@ -26,6 +26,12 @@ if %ERRORLEVEL% GEQ 8 (
   goto :end
 )
 
+REM Remove anything excluded that is still in content\ from an earlier publish
+REM (robocopy skips excluded items but never deletes old copies of them).
+REM This only touches the copy in quartz\content, never your vault.
+REM Keep these two lists in step with XD / XF above.
+powershell -NoProfile -Command "$c = '%QUARTZ%content'; $dirs = @('.obsidian','.trash','Other Resources','.tmp.drivedownload','.tmp.driveupload','UTM108','Vibe Coded Projects'); $files = @('To-Do.md','UTM108 Hub.base'); Get-ChildItem -LiteralPath $c -Recurse -Force -Directory | Where-Object { $dirs -contains $_.Name } | Sort-Object { $_.FullName.Length } -Descending | Remove-Item -Recurse -Force -ErrorAction SilentlyContinue; Get-ChildItem -LiteralPath $c -Recurse -Force -File | Where-Object { $files -contains $_.Name } | Remove-Item -Force -ErrorAction SilentlyContinue"
+
 REM Homepage: use the vault's own index.md if it has one, otherwise site-index.md
 if not exist "%VAULT%\index.md" copy /y "%QUARTZ%site-index.md" "%QUARTZ%content\index.md" >nul
 
@@ -33,7 +39,7 @@ echo Publishing to GitHub ...
 git add -A
 git diff --cached --quiet && (echo No changes since the last publish. & goto :end)
 git commit -q -m "Vault update %DATE% %TIME%" || (echo Commit failed - see the message above. Nothing was pushed. & goto :end)
-git pull --rebase -q origin v5 || (echo Could not get the latest version from GitHub - see above. Nothing was pushed. & goto :end)
+git pull --ff-only -q origin v5 || (echo GitHub has changes this PC does not have, so nothing was pushed. Ask Claude to sort it out. & goto :end)
 git push origin v5 || (echo Push failed - see the message above. & goto :end)
 echo Done. The site updates in about a minute: https://wenchengnie.github.io/quartz
 

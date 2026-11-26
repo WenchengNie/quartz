@@ -93,6 +93,15 @@ The remaining tutorial problems (arcsec derivative, Rolle/local-extrema true-fal
 
 Not transcribed: these are the original PDFs, shown right here. Click a box to open it. Official final-exam coverage is TBA, so check it before relying on any of these.
 
+### Past final exams
+
+From the UTM past-exams archive (no solutions posted). This is the **full-year MAT137Y** final, so it may include topics beyond our course; skip any questions on material we haven't covered.
+
+> [!example]- MAT137Y Final Exam, April 2023
+> ![[MAT137Y Apr 2023 Final Exam.pdf#height=800]]
+
+### Past term tests
+
 > [!example]- Fall 2026 Test 2 (our own)
 > ![[mat137-f26-test2.pdf#height=800]]
 
@@ -122,4 +131,3 @@ Not transcribed: these are the original PDFs, shown right here. Click a box to o
 
 > [!success]- Fall 2022 Test 2A: Solutions
 > ![[mat137-f22-test2A-sol.pdf#height=800]]
-
