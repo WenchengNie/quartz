@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.inFolder("School/CSC108")
+    - file.ext == "md"
+views:
+  - type: list
+    name: Notes
+    order:
+      - file.name
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
